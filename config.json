@@ -118,7 +118,7 @@
         },
         "api_33": {
             "name": "TV-索尼资源",
-            "api": "https://suoniapi.com/api.php/provide/vod"，
+            "api": "https://suoniapi.com/api.php/provide/vod",
             "detail": ""
         },
         "api_34": {
@@ -140,7 +140,7 @@
             "name": "TV-豆瓣资源",
             "api": "https://dbzy.tv/api.php/provide/vod",
             "detail": "https://dbzy.tv"
-        }，
+        },
         "api_39": {
             "name": "TV-豪华资源",
             "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -160,7 +160,7 @@
             "name": "TV-金鹰资源",
             "api": "https://jyzyapi.com/api.php/provide/vod",
             "detail": "https://jyzyapi.com"
-        }，
+        },
         "api_45": {
             "name": "TV-非凡资源",
             "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -175,7 +175,7 @@
             "name": "TV-魔都动漫",
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "detail": "https://caiji.moduapi.cc"
-        }，
+        },
         "api_49": {
             "name": "TV-魔都资源",
             "api": "https://www.mdzyapi.com/api.php/provide/vod",
